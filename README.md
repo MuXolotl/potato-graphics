@@ -1,2 +1,1 @@
-# Game--onfigs
-Optimized Configs for Games
+# Optimized Configs for Games
